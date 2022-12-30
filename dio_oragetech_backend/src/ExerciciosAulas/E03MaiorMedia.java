@@ -1,3 +1,5 @@
+package ExerciciosAulas;
+
 import java.util.Scanner;
 
 public class E03MaiorMedia {
