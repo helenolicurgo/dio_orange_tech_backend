@@ -5,7 +5,7 @@ public class E04ParImpar {
         try (Scanner scanner = new Scanner(System.in)) {
 
             System.out.print("Entre com a quantidade de números: ");
-            int quantidadeNumeros = scanner.nextInt();
+            final int quantidadeNumeros = scanner.nextInt();
 
             int count = 0, par = 0, impar = 0;
             do {
