@@ -1,8 +1,6 @@
-## Java Variables Types
+## DIO Orange Tech Backend
 
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## All training exercises from the bootcamp
 
 ## Folder Structure
 
